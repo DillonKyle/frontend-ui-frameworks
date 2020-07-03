@@ -1,0 +1,21 @@
+{
+  "name": "fronted-ui-frameworks-with-bootstrap",
+  "version": "1.0.0",
+  "description": "Coursera frontend with bootsrap",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dillon Kyle",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
